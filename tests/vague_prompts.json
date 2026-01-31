@@ -1,0 +1,28 @@
+[
+  {
+    "input": "write something about AI",
+    "expected": {
+      "contains": [
+        "\"role\":",
+        "\"goal\":",
+        "\"output_format\":"
+      ]
+    }
+  },
+  {
+    "input": "make this prompt better",
+    "expected": {
+      "contains": [
+        "\"constraints\":"
+      ]
+    }
+  },
+  {
+    "input": "help with interview prep",
+    "expected": {
+      "contains": [
+        "\"role\":"
+      ]
+    }
+  }
+]
