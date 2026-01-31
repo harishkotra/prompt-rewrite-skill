@@ -9,6 +9,10 @@ This demo uses **Ollama** (running `gemma3:12b`) to:
 
 **No Cloud API Keys Required.** Everything runs locally on your machine.
 
+https://github.com/user-attachments/assets/65c8a496-072e-4fac-8969-5f06af35675e
+
+<img width="1073" height="768" alt="Screenshot at Jan 31 21-23-02" src="https://github.com/user-attachments/assets/171535c9-40cc-4cc5-9a89-4318d3a5ddef" />
+
 ## Prerequisites
 
 1.  **Ollama** installed and running (`ollama serve`).
